@@ -14,3 +14,6 @@ This is a simple text project
 
 ## How to contribute
 You can contribute to develop this sample project
+
+### Copyright
+2020
