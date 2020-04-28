@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+Git is one of the most important software engineering tools
 
 ## Introduction
 This is a example is to show how to use git
